@@ -1,4 +1,8 @@
 Hello world!!
 
+Saya ingin membuat project dengan tema E_Commerce
+
+Bahasa yang digunakan :
+HTML,CSS,JS
 Saya ingin membuat project dengan tema Company profile
 Saya ingin membuat project dengan tema E_Commerce
